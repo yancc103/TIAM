@@ -7,5 +7,4 @@ The stochastic gradient descent (SGD) algorithm has achieved remarkable success 
 
 # Acknowledge
 We would like to express our gratitude for the following open-source project:
-
 https://github.com/xianggebenben/mDLAM
